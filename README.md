@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @siamr902
-- 👀 I’m interested in web development and data analysis.
-- 🌱 I’m currently learning backend frameworks like django.
 - 📫 Reach me via email:
       siamr.bro99@gmail.com
 
