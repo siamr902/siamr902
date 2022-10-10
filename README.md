@@ -1,10 +1,14 @@
 <h1 align="center" style="font-family:Serif; text-align:center">Siam Rahman</h1>
 
-<p align="center" style="text-align:center">Student with an interest in <span style="color:orange;font-family:Serif">web development</span> looking to gain experience leveraging various tools and technologies in a professional environment.</p>
+<div align="center">
 
-<div align="center" style="text-align:center;margin-top:20px">
+**Student with an interest in <span style="color:orange;font-family:Serif">web development</span> looking to gain experience leveraging various tools and technologies  in a professional environment.**
 
-  [Contact Me](mailto:siamr902@gmail.com)
+</div>
+
+<div align="center">
+
+  *[Contact Me](mailto:siamr902@gmail.com)*
 
 </div>
 
