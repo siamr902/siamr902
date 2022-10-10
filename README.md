@@ -8,7 +8,7 @@
 
 <div align="center">
 
-  [Contact Me](mailto:siamr902@gmail.com)
+  **[Contact Me](mailto:siamr902@gmail.com)**
 
 </div>
 
