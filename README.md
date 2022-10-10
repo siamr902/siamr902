@@ -24,7 +24,7 @@
 
 <img src="https://res.cloudinary.com/arcjet-media/image/upload/v1608734952/z8hzeszc9eb3sp3vp3qc.jpg" style="width:120px;height:110px">
 
-<img src="https://storage.googleapis.com/prd-engineering-asset/2021/12/e46ebeca-react-logo.png" style="width:140px;height:110px">
+<img src="https://storage.googleapis.com/prd-engineering-asset/2021/12/e46ebeca-react-logo.png" style="width:160px;height:110px">
 
 
 </div>
@@ -33,11 +33,11 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" style="width:120px;height:110px">
 
-<img src="https://avatars.githubusercontent.com/u/17219288?s=280&v=4" style="width:110px;height:110px">
+<img src="https://avatars.githubusercontent.com/u/17219288?s=280&v=4" style="width:130px;height:110px">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1200px-GraphQL_Logo.svg.png" style="width:110px;height:110px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1200px-GraphQL_Logo.svg.png" style="width:120px;height:110px">
 
-<img src="https://img2.wallspic.com/previews/0/0/3/3/6/163300/163300-python-programming_language-standing-icon-java-500x.jpg" style="width:140px;height:110px">
+<img src="https://img2.wallspic.com/previews/0/0/3/3/6/163300/163300-python-programming_language-standing-icon-java-500x.jpg" style="width:160px;height:110px">
 
 </div>
 
