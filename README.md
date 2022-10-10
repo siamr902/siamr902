@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**Student with an interest in <span style="color:orange;font-family:Serif">web development</span> looking to gain experience leveraging various tools and technologies  in a professional environment.**
+**Student with an interest in <span style="color:orange;font-family:Serif">web development</span> looking to gain experience through leveraging various tools and technologies in a professional environment.**
 
 </div>
 
