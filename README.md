@@ -31,7 +31,7 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1200px-GraphQL_Logo.svg.png" style="width:70px;height:70px">
 
-<img src="https://assets.stickpng.com/images/5848152fcef1014c0b5e4967.png" style="width:70px;height:70px">
+<img src="https://img2.wallspic.com/previews/0/0/3/3/6/163300/163300-python-programming_language-standing-icon-java-500x.jpg" style="width:100px;height:70px">
 
 </div>
 
