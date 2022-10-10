@@ -1,16 +1,18 @@
-<h1 style="font-family:Serif; text-align:center">Siam Rahman</h1>
+<h1 align="center" style="font-family:Serif; text-align:center">Siam Rahman</h1>
 
-<p style="text-align:center">Student with an interest in <span style="color:orange;font-family:Serif">web development</span> looking to gain experience leveraging various tools and technologies in a professional environment.</p>
+<p align="center" style="text-align:center">Student with an interest in <span style="color:orange;font-family:Serif">web development</span> looking to gain experience leveraging various tools and technologies in a professional environment.</p>
 
-<div style="text-align:center;margin-top:20px">
+<div align="center" style="text-align:center;margin-top:20px">
 
   [Contact Me](mailto:siamr902@gmail.com)
 
 </div>
 
-<h3 style="text-align:center;font-weight:600">Technologies</h3>
+<h3 align="center" style="text-align:center;font-weight:600">Technologies</h3>
 
-<div style="display:flex;justify-content:center;gap:5px;">
+<br/>
+
+<div align="center" style="display:flex;justify-content:center;gap:5px;">
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/480px-Typescript.svg.png" style="width:70px;height:70px;">
 
@@ -23,7 +25,7 @@
 
 </div>
 
-<div style="display:flex;justify-content:center;gap:5px;margin-top:10px;">
+<div align="center" style="display:flex;justify-content:center;gap:5px;margin-top:10px;">
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" style="width:80px;height:70px">
 
@@ -35,15 +37,17 @@
 
 </div>
 
+<br/>
+<br/>
 
-<div style="margin-top:40px">
+<div align="center">
 
 [![](https://github-readme-stats.vercel.app/api?username=siamr902&show_icons=true&theme=dark)](https://github.com/siamr902/github-readme-stats)
 
 </div>
 
 
-<div>
+<div align="center">
 
 [![](https://streak-stats.demolab.com/?user=siamr902&theme=dark)](https://git.io/streak-stats)
 
@@ -53,7 +57,7 @@
 
 
 
-<div style="display:flex;justify-content:center">
+<div align="center" style="display:flex;justify-content:center">
 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=siamr902&theme=dark)](https://github.com/siamr902/github-readme-stats)
 
