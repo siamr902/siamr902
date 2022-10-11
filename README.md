@@ -1,4 +1,3 @@
-<h1 align="center" style="font-family:Serif; text-align:center">Siam Rahman</h1>
 
 <div align="center">
 
