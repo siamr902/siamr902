@@ -4,10 +4,6 @@
 
 </div>
 
-
-<br/>
-<br/>
-
 <div align="center">
 
 [![](https://github-readme-stats.vercel.app/api?username=siamr902&show_icons=true&theme=dark)](https://github.com/siamr902/github-readme-stats)
