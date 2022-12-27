@@ -1,6 +1,6 @@
 <div align="center">
 
-  **[Contact Me](mailto:siamr902@gmail.com)**
+ **<h2>[Contact Me](mailto:siamr902@gmail.com)</h2>**
 
 </div>
 
