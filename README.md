@@ -2,7 +2,7 @@
 
 <div align="center">  
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Monospace&pause=1000&color=FFFFFF&background=FFFFFF00&center=true&width=635&lines=Currently+focused+on+learning+microservices.;Simultaneously+learning+DevOps+and+cloud+architecture.;Enjoy+UI%2FUX+design.;Ocassionally+build+fun+projects.;Often+participate+in+competitive+programming.;You+have+incredible+patience.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Serif&pause=1000&color=FFFFFF&background=FFFFFF00&center=true&repeat=false&width=635&lines=Ocassionally+build+fun+projects.;Enjoy+UI%2FUX+design.)](https://git.io/typing-svg)
  
 </div>
 
