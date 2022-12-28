@@ -1,11 +1,5 @@
 <div align="center">
 
- **<h2>[Contact Me](mailto:siamr902@gmail.com)</h2>**
-
-</div>
-
-<div align="center">
-
 [![](https://github-readme-stats.vercel.app/api?username=siamr902&show_icons=true&theme=dark)](https://github.com/siamr902/github-readme-stats)
 
 </div>
