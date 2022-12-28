@@ -2,7 +2,7 @@
 
 <div align="center">  
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Serif&pause=1000&color=FFFFFF&background=FFFFFF00&center=true&repeat=false&width=635&lines=Ocassionally+build+fun+projects.;Enjoy+UI%2FUX+design.)](https://git.io/typing-svg)
+
  
 </div>
 
@@ -31,7 +31,7 @@
 
 <div align="center">
   <samp>
-  <h2>Technologies</h2>
+  <h1>Technologies</h1>
   </samp>
 </div>
 
