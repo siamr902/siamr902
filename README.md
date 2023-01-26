@@ -19,7 +19,7 @@
 
 <div style="display:flex;justify-content:center">
 
-<!-- [![](https://github-readme-stats.vercel.app/api/top-langs/?username=siamr902&theme=dark)](https://github.com/siamr902/github-readme-stats) -->
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=siamr902&theme=dark)](https://github.com/siamr902/github-readme-stats)
 
 
 </div>
