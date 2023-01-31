@@ -10,7 +10,7 @@
 
 <!-- <div align="center">
  -->
-[![](https://streak-stats.demolab.com/?user=siamr902&theme=dark)](https://git.io/streak-stats)
+<!-- [![](https://streak-stats.demolab.com/?user=siamr902&theme=dark)](https://git.io/streak-stats) -->
 
 
 <!-- </div>
