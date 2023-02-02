@@ -10,6 +10,7 @@
  <li>tRPC, Zustand</li>
  <li>Java, Spring, JUnit</li>
  <li>Azure, Terraform, Jira</li>
+ <li>Blender (integrate w/ Three.js/React Three Fiber)</li>
 </ul>
  
 [![](https://github-readme-stats.vercel.app/api?username=siamr902&show_icons=true&theme=dark)](https://github.com/siamr902/github-readme-stats)
