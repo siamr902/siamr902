@@ -9,7 +9,7 @@
  <li>Tensorflow, NLTK, Pandas, NumPy</li>
  <li>tRPC, Zustand</li>
  <li>Java, Spring, JUnit</li>
- <li>Azure, Terraform, Jira</li>
+ <li>AWS Amplify, Terraform</li>
  <li>Blender (integrate w/ Three.js/React Three Fiber)</li>
 </ul>
  
