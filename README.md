@@ -6,8 +6,8 @@
 
 <ul>
  <li>Advanced Golang (buffers, unit testing, reflection)</li>
- <li>Tensorflow, NLTK, Pandas, NumPy</li>
- <li>tRPC, Zustand</li>
+ <li>Tensorflow, NLTK, Pandas</li>
+ <li>tRPC, Zustand, Svelte</li>
  <li>Java, Spring, JUnit</li>
  <li>AWS Amplify, Terraform</li>
  <li>Blender (integrate w/ Three.js/React Three Fiber)</li>
