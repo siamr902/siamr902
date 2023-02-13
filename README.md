@@ -6,7 +6,7 @@
 
 <ul>
  <li>Advanced Golang (buffers, unit testing, reflection)</li>
- <li>Tensorflow, NLTK, Pandas</li>
+ <li>PyTorch, NLTK, Pandas</li>
  <li>tRPC, Zustand, Svelte</li>
  <li>Java, Spring, JUnit</li>
  <li>AWS Amplify, Terraform</li>
