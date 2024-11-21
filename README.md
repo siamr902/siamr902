@@ -5,12 +5,9 @@
 </div>
 
 <ul>
- <li>Advanced Golang (buffers, unit testing, reflection)</li>
- <li>PyTorch, NLTK, Pandas</li>
- <li>tRPC, Zustand, Svelte</li>
- <li>Java, Spring, JUnit</li>
- <li>AWS Amplify, Terraform</li>
- <li>Blender (integrate w/ Three.js/React Three Fiber)</li>
+ <li>PyTorch</li>
+ <li>Pandas</li>
+ <li>Tensorflow</li>
 </ul>
  
 [![](https://github-readme-stats.vercel.app/api?username=siamr902&show_icons=true&theme=dark)](https://github.com/siamr902/github-readme-stats)
